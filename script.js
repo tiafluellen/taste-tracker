@@ -46,7 +46,8 @@ let friendFavorites = [
 
 // 7. Create a new array longFoodNames for foods with names longer than 6 characters.
 
-
+git add .
+git commit -m "Finished array loops and conditionals"
 
 // 8. Create another array shortFoodNames for foods 6 characters or shorter.
 
@@ -58,3 +59,5 @@ let friendFavorites = [
 
 // 10. STRETCH: Find the longest food name and print:
 // "The longest food name in the list is ______ with ___ characters."
+git add .
+git commit -m "Finalized Taste Tracker JavaScript assignment"
