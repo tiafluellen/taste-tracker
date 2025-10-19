@@ -61,3 +61,5 @@ git commit -m "Finished array loops and conditionals"
 // "The longest food name in the list is ______ with ___ characters."
 git add .
 git commit -m "Finalized Taste Tracker JavaScript assignment"
+
+git push
