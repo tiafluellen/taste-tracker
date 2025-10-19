@@ -15,7 +15,8 @@ console.log("Hello World!");
 // ...etc.
 
 
-
+git add .
+git commit -m "Completed problems 1-3"
 
 
 // 4a. Create a function printFoodRecommendation(foodName) that prints out the following for the foodName provided
